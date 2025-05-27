@@ -68,7 +68,7 @@ body {
 }
 
 .apps-menu-container:hover {
-    background-color: rgba(60, 64, 67, 0.1); /* Google-like soft hover */
+    background-color: rgba(60, 64, 67, 0.1); 
 }
 
 .apps-menu {
